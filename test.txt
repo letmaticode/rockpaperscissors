@@ -1,2 +1,0 @@
-// {*box-shadow: rgb(0 0 0 / 13%) 0px 9px 1px 0px inset;*} sombra botones
- {/* <button onClick={() => select('h-full bg-red-500')} className='game-button game-paper'> */} ????????
